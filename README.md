@@ -5,7 +5,7 @@
           - Mobile application programming
           - Create personal products  
           
-<h3>🌱 I’m currently learning something new. I love learning and never stop it.</h3>  
+<h3>🌱 I’m currently learning C++. I love learning and never stop it.</h3>  
 <h3>📫 How to reach me: kiennt159@gmail.com</h3>
 (If you have any job opportunities or ideas and want to cooperate with me please feel free to reach me and I will definitely discuss it with you. Thank you so much!)
 <!---
