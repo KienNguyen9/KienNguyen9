@@ -4,7 +4,7 @@
           - Embedded programmer
           - Tool automate stuff
                     
-<h3>🌱 I’m currently learning Embedded comunications protocol. I love learning and never stop it.</h3>  
+<h3>🌱 I’m currently learning Embedded AutoSar architecture using C language and python programming language. I love learning and never stop it.</h3>  
 <h3>📫 How to reach me: kiennt159@gmail.com</h3>
 <!---
 KienNguyen9/KienNguyen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
