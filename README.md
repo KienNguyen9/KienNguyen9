@@ -1,5 +1,5 @@
-<h3>👋 Hi welcom to my github. I’m Kien Nguyen - A Software Engineer ⚡</h3>
-<h3>🔭 I am passionate about creativity and science, especially:</h3>
+<h3>👋 Hi welcom to my github. I’m Kien Nguyen - An Embedded Software Developer ⚡</h3>
+<h3>🔭 I am passionate about creativity and science:</h3>
           - The Self-Taught Embedded Software Developer
 
                     
